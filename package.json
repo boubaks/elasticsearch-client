@@ -1,0 +1,25 @@
+{
+  "name": "elasticsearch-client",
+  "version": "1.0.0",
+  "description": "simple elasticsearch client (npm elasticsearch-js used)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boubaks/elasticsearch-client"
+  },
+  "keywords": [
+    "elasticsearch"
+  ],
+  "author": "boubaks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boubaks/elasticsearch-client/issues"
+  },
+  "homepage": "https://github.com/boubaks/elasticsearch-client",
+  "dependencies": {
+    "elasticsearch": "^10.1.3"
+  }
+}
